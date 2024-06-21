@@ -1,6 +1,6 @@
 ---
 title: "Ethical Hacking Lab"
-excerpt: "A comprehensive lab environment to learn and practice ethical hacking techniques<br/><br/><img src='/images/network-diagram.png' style='width: 250px;'>"
+excerpt: "A comprehensive lab environment to learn and practice ethical hacking techniques<br/><br/><img src='/images/network-diagram.png' style='width: 400px;'>"
 collection: portfolio
 link: https://github.com/jfulfo/EthicalHackingLab
 ---

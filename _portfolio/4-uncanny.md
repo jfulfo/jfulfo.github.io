@@ -1,11 +1,6 @@
 ---
 title: "Edge Detection"
-excerpt: |
-  Realtime edge detector in rust using the Canny algorithm<br/>
-  <div style='display: flex;'>
-    <img src='images/meandwho.jpeg' style='max-width: 50%; height: auto;'>
-    <img src='images/meandwho-edge.jpeg' alt='Image 2' style='max-width: 50%; height: auto;'>
-  </div>
+excerpt: "Realtime edge detector in rust using the Canny algorithm<br/><img src='images/church-edge.gif' style='width: 400px;'>"
 collection: portfolio
 link: "https://github.com/jfulfo/uncanny"
 ---
