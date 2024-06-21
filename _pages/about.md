@@ -15,3 +15,10 @@ Research interests include programming languages and artificial intelligence, wi
 Experienced with Python, Rust, C/C++, and OCaml. 
 Passionate about exploring opportunities in quantitative finance. 
 Currently spending the summer at UPenn for an [REU in Programming Languages](https://penn-repl.github.io/).
+
+Other Interests and Hobbies
+---------------
+
+* **Mathematics**: I regularly read math textbooks for fun (currently working through *Real Mathematical Analysis* by Charles Pugh). I also enjoy solving putnam problems and regularly participate in UVA's Putnam problem solving group.
+* **Music**: I produce music in my freetime: [youtube](https://www.youtube.com/@zaphkiel_delta)
+* **Activism**: I'm a proud LGBTQ activist
