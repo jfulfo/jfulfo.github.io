@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Bio
-========
+-----------------
 
 Third-year Computer Science and Mathematics student at the University of Virginia, graduating in Spring 2025. 
 Research interests include programming languages and artificial intelligence, with recent projects involving proof assistants under Steve Zdancewic. 
