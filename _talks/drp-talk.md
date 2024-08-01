@@ -1,7 +1,6 @@
 ---
 title: "Directed Reading Program -- On Primes and Irreducibles: Aren't they the same?"
 collection: talks
-type: "Talk"
 link: /files/drp.pdf
 venue: "University of Virginia Department of Mathematics"
 date: 2023-09-06

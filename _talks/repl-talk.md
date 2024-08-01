@@ -1,7 +1,6 @@
 ---
 title: "REU In Programming Languages - The Effectiveness of Formalization"
 collection: talks
-type: "Talk"
 link: /files/repl.pdf
 venue: "University of Pennsylvania Department of Computer and Information Science"
 date: 2024-08-02
