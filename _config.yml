@@ -22,8 +22,8 @@ repository               : "jfulfo/jfulfo.github.io"
 author:
   # Biographic information
   avatar           : "headshot.jpg"
-  name             : "Jake (Jamie) Fulford"
-  pronouns         : "they/them" 
+  name             : "Jamie Fulford"
+  pronouns         : "she/they" 
   bio              : "I prove theorems. Research in programming languages, proof assistants, and artificial intelligence."
   location         : # blank
   employer         : "University of Virginia"
