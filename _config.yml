@@ -24,10 +24,10 @@ author:
   avatar           : "headshot.jpg"
   name             : "Jamie Fulford"
   pronouns         : "she/they" 
-  bio              : "I prove theorems. Research in programming languages, proof assistants, and artificial intelligence."
+  bio              : "I prove theorems. Researcher in programming languages, formal methods, and software engineering."
   location         : # blank
   employer         : "University of Virginia"
-  uri              : # URL
+  uri              : "https://zaph.dev"
   email            : "ase6gh@virginia.edu" 
 
   # Academic websites
