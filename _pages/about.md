@@ -5,6 +5,8 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+  - /sitemap/
+  - /sitemap.xml
 ---
 
 ## Bio
@@ -13,8 +15,7 @@ Third-year Computer Science and Mathematics student at the University of Virgini
 Research interests include programming languages, formal methods, and software engineering.
 Experienced with Python, Java, Rust, C/C++, Haskell, and OCaml.
 Spent last summer at Penn for a [REU in Programming Languages](https://penn-repl.github.io/) with [Steve Zdancewic](https://www.cis.upenn.edu/~stevez/).
-Currently working with [Wenxi Wang](https://wenxiwang.github.io/) at UVA on a project with the Dafny verification language
-and with the [Systems Software Research Group](https://www.ssrg.ece.vt.edu/index.php) at Virginia Tech on [extending the CompCert C Compiler](https://github.com/ssrg-vt/BeePL_compcert)
+Currently working with the [Systems Software Research Group](https://www.ssrg.ece.vt.edu/index.php) at Virginia Tech on [extending the CompCert C Compiler](https://github.com/ssrg-vt/BeePL_compcert)
 to a language for writing [eBPF](https://en.wikipedia.org/wiki/EBPF).
 
 ## Other Interests and Hobbies
