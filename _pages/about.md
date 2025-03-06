@@ -17,6 +17,7 @@ Experienced with Python, Java, Rust, C/C++, Haskell, and OCaml.
 Spent last summer at Penn for a [REU in Programming Languages](https://penn-repl.github.io/) with [Steve Zdancewic](https://www.cis.upenn.edu/~stevez/).
 Currently working with the [Systems Software Research Group](https://www.ssrg.ece.vt.edu/index.php) at Virginia Tech on [extending the CompCert C Compiler](https://github.com/ssrg-vt/BeePL_compcert)
 to a language for writing [eBPF](https://en.wikipedia.org/wiki/EBPF).
+Incoming Ph.D. student at University of Illinois Urbana-Champaign, anticipated advisor [Talia Ringer](https://dependenttyp.es).
 
 ## Other Interests and Hobbies
 
