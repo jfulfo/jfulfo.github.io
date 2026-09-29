@@ -17,8 +17,6 @@ Before Illinois, I studied Computer Science and Mathematics at the University of
 
 ## Current Research
 
-Graduate research assistant at UIUC, working on:
-
 - **DARPA expMath**: building tooling for proof autoformalization and proof decomposition in Agda, targeting homotopy type theory. The tooling breaks a theorem statement into multiple lemmas and sends them to automated provers.
 - **Proof translation between program logics**: designing languages with specific interpretable properties, then implementing them in Rocq so that they interoperate and proofs can be compiled between them.
 
@@ -38,7 +36,7 @@ Graduate research assistant at UIUC, working on:
 
 ## Skills
 
-- **Proof assistants**: Agda, Rocq (Coq), Lean 4
+- **Proof assistants**: Agda, Rocq, Lean 4
 - **Verification**: Iris, CompCert, Mathlib
 - **Languages**: OCaml, Haskell, Rust, Python, C, C++, Java, JavaScript, SQL, Bash
 - **Tools**: Git, Linux, NixOS, LaTeX, PyTorch

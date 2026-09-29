@@ -307,6 +307,14 @@
     white-space: nowrap;
   }
 
+  /* let plain-text items like a long employer name wrap, with a hanging
+     indent so the second line lines up with the text, not the icon */
+  li.author__desktop {
+    white-space: normal;
+    padding-left: 2.25em;
+    text-indent: -2.25em;
+  }
+
   a {
     display: block;
     margin-bottom: 5px;
