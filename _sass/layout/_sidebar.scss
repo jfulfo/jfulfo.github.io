@@ -307,12 +307,20 @@
     white-space: nowrap;
   }
 
-  /* let plain-text items like a long employer name wrap, with a hanging
-     indent so the second line lines up with the text, not the icon */
+  /* let plain-text items like a long employer name wrap, keeping the icon
+     in its own column so the second line lines up with the text */
   li.author__desktop {
     white-space: normal;
-    padding-left: 2.25em;
-    text-indent: -2.25em;
+
+    /* same width at which .sidebar .author__desktop becomes visible */
+    @media screen and (min-width: 1024px) {
+      display: flex;
+      align-items: baseline;
+    }
+
+    i {
+      flex-shrink: 0;
+    }
   }
 
   a {
