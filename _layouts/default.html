@@ -7,6 +7,12 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
   <head>
+    <script>
+      /* Apply the dark theme before first paint so pages don't flash light; follows the OS preference like _main.js */
+      if (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+        document.documentElement.setAttribute("data-theme", "dark");
+      }
+    </script>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
