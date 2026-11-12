@@ -40,7 +40,6 @@ Before Illinois, I studied Computer Science and Mathematics at the University of
 
 ## Skills
 
-- **Proof assistants**: Agda, Rocq, Lean 4
+- **Proof assistants**: Rocq, Lean 4, Agda
 - **Verification**: Iris, CompCert, Mathlib
-- **Languages**: OCaml, Haskell, Rust, Python, C, C++, Java, JavaScript, SQL, Bash
-- **Tools**: Git, Linux, NixOS, LaTeX, PyTorch
+- **Programming**: OCaml, Haskell, Python, C
