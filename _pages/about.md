@@ -22,7 +22,7 @@ Before Illinois, I studied Computer Science and Mathematics at the University of
 
 ## Previous Research
 
-- **[Virginia Tech Systems Software Research Group](https://www.ssrg.ece.vt.edu/index.php)** (January -- July 2025): proof engineer. Developed type systems and compiler verification for Linux [eBPF](https://en.wikipedia.org/wiki/EBPF) in Rocq, proving kernel safety properties. [Extended the CompCert verified compiler](https://github.com/ssrg-vt/BeePL_compcert) to a new frontend language.
+- **[Virginia Tech Systems Software Research Group](https://www.ssrg.ece.vt.edu/index.php)** (January -- July 2025): proof engineer. Developed type systems and compiler verification in Rocq for [BeePL](https://arxiv.org/abs/2507.09883), a language for safe Linux [eBPF](https://en.wikipedia.org/wiki/EBPF) kernel extensions, and [extended the CompCert verified compiler](https://github.com/ssrg-vt/BeePL_compcert) with a new frontend language.
 - **University of Pennsylvania** (Summer 2024): research fellow in the [NSF REU in Programming Languages](https://penn-repl.github.io/), advised by [Steve Zdancewic](https://www.cis.upenn.edu/~stevez/). Designed and formalized a new lambda calculus for parallel and distributed computation in Rocq, with machine-checked proofs of type safety and confluence.
 
 ## Publications
