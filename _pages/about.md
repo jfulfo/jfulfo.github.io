@@ -17,7 +17,7 @@ Before Illinois, I studied Computer Science and Mathematics at the University of
 
 ## Current Research
 
-- **DARPA expMath**: building tooling for proof autoformalization and proof decomposition in Agda, targeting homotopy type theory. The tooling breaks a theorem statement into multiple lemmas and sends them to automated provers.
+- **DARPA expMath**: building tooling for proof autoformalization and proof decomposition in Agda, targeting homotopy type theory. The tooling decomposes a theorem statement into lemmas that are dispatched to LLM-based provers.
 - **Proof translation between program logics**: designing languages with specific interpretable properties, then implementing them in Rocq so that they interoperate and proofs can be compiled between them.
 
 ## Previous Research
@@ -29,7 +29,7 @@ Before Illinois, I studied Computer Science and Mathematics at the University of
 
 - [BeePL: Correct-by-compilation kernel extensions](https://arxiv.org/abs/2507.09883). Swarn Priya, Frédéric Besson, Connor Sughrue, Tim Steenvoorden, **Jamie Fulford**, Freek Verbeek, Binoy Ravindran. *arXiv preprint*, 2025.
 
-## Formalizations
+## Projects
 
 - [Formalizing LLM Guardrails with AgentSpec in Lean 4](/projects/1-agentspec-formal/) (Fall 2025)
 - [ProbaLean: A Probabilistic DSL in Lean 4](/projects/2-probalean/) (Spring 2026)
@@ -37,9 +37,3 @@ Before Illinois, I studied Computer Science and Mathematics at the University of
 ## Awards
 
 - **PLMW Scholarship**, Programming Languages Mentoring Workshop at POPL 2025
-
-## Skills
-
-- **Proof assistants**: Rocq, Lean 4, Agda
-- **Verification**: Iris, CompCert, Mathlib
-- **Programming**: OCaml, Haskell, Python, C
